@@ -2,4 +2,13 @@
     .carousel-item img {
         height: 200px;
     }
+    .navbar-toggler {
+        transform: translate(-80px);
+    }
+    .carousel-caption h5 {
+        font-size: 15px;
+    }
+    .carousel-caption p {
+        font-size: 9px;
+    }
 }
