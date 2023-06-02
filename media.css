@@ -7,8 +7,10 @@
     }
     .carousel-caption h5 {
         font-size: 15px;
+        color: yellow;
     }
     .carousel-caption p {
         font-size: 9px;
+        color: yellow;
     }
 }
