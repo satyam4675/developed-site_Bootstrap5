@@ -1,0 +1,25 @@
+body {
+    overflow-x: hidden;
+}
+h1 {
+    font-family: 'Dancing Script', Cursive;
+}
+.navbar-brand h1 {
+    float: left;
+}
+.navbar-brand h2 {
+    float: left;
+}
+.navbar-brand h3 {
+    float: left;
+    margin-left: 10px;
+}
+.card-body img {
+    min-width: 50%;
+    max-height: 200px;
+}
+.img img {
+    height: 400px;
+    width: 400px;
+    float: right;
+}
